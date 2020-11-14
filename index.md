@@ -1,3 +1,4 @@
-## Hi!
+## 你好!
 
-This is my blog,thanks for looking!
+这是我的个人网站
+qwq
